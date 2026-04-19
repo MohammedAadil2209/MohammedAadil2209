@@ -7,10 +7,14 @@ I build modern, high-performing websites and develop real-world tech solutions f
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Portfolio & Brand
 <p align="left">
 <a href="https://mohammedaadil-portfolio.vercel.app/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vercel" height="40"/> Portfolio Website
+<img src="https://skillicons.dev/icons?i=vercel" height="40"/> Portfolio
+</a>
+&nbsp;&nbsp;
+<a href="https://nexora-devstudio.vercel.app/" target="_blank">
+<img src="./nexora.png" height="40"/> Nexora
 </a>
 </p>
 
@@ -53,7 +57,7 @@ Currently exploring full-stack development, embedded systems, and AI-based appli
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,arduino" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Wokwi-00BFFF?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Wokwi-Simulator-00BFFF?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 ### 🤖 AI / ML & Computer Vision
@@ -62,11 +66,6 @@ Currently exploring full-stack development, embedded systems, and AI-based appli
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
-### 🤖 IoT & Embedded
-<p>
-<img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
 ---
