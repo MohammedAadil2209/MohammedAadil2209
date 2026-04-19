@@ -45,7 +45,7 @@ Currently exploring full-stack development, embedded systems, and AI-based appli
 
 ### 💻 Development
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,nodejs,express,nextjs,django" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,ts,nodejs,express,nextjs,django,linux" />
 </p>
 
 ### ⚙️ Programming
